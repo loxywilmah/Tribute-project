@@ -1,4 +1,4 @@
-# Tribute-project
+# index.html 
 HTML Tribute project assignment
 This project is a tribute webpage created using HTML and CSS.
 It was developed as part of a school assignment.
